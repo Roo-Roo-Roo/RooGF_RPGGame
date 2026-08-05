@@ -1,0 +1,22 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Do not publish local plugins with this demo
+Plugins/
+Docs/
+
+# IDE and operating system files
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+.DS_Store
+Thumbs.db

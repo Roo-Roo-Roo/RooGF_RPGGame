@@ -8,6 +8,12 @@ The project is being developed into a complete RPG game and will continue to gro
 
 Blueprints will be developed using consistent conventions and established best practices to ensure maintainability, extensibility, and strong runtime performance as the project grows.
 
+## Current Showcase
+
+### Stat Value Updates
+
+![Stat Value Updates](GIF/stat-value-updates.gif)
+
 ## Planned Features
 
 - Character attributes and derived stats

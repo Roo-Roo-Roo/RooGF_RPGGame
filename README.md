@@ -4,6 +4,10 @@ An ongoing full RPG game project built with **Unreal Engine 5.7** and [RooGamepl
 
 The project is being developed into a complete RPG game and will continue to grow over time. Its goal is to provide a cohesive, feature-rich gameplay foundation covering common RPG systems.
 
+## Development Principles
+
+Blueprints will be developed using consistent conventions and established best practices to ensure maintainability, extensibility, and strong runtime performance as the project grows.
+
 ## Planned Features
 
 - Character attributes and derived stats

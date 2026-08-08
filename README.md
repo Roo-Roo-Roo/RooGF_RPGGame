@@ -48,6 +48,8 @@ The project is developed as a step-by-step learning series, with each chapter ad
 
 - Unreal Engine 5.7
 
+> **Note:** RooGameplayFramework is not included in this repository. Obtain and install it separately from Fab, enable it in Unreal Engine through **Edit → Plugins**, and restart the editor when prompted.
+
 ## RooGameplayFramework
 
 RooGameplayFramework is available on Fab:

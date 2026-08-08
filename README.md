@@ -20,6 +20,17 @@ Chapter 1 builds the project from the initial `v1.0.0` state into the data-drive
 
 [Watch the complete Chapter 1 tutorial on YouTube](https://www.youtube.com/watch?v=LILH3-InaRI)
 
+## Project Roadmap
+
+The project is developed as a step-by-step learning series, with each chapter adding a complete set of connected RPG systems.
+
+- [x] **Chapter 1 — Stats, Formula, and Combat Foundation**
+- [ ] **Chapter 2 — Levels and Character Progression**
+- [ ] **Chapter 3 — Buffs and Skills**
+- [ ] **Chapter 4 — Equipment, Loot, Pickup, and Equipment Systems**
+
+[View the complete learning roadmap and documentation](https://roogame.gitbook.io/roogame/roo-gameplay-framework/learn-to-build-a-complete-rpg-game)
+
 ## Planned Features
 
 - Character attributes and derived stats

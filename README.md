@@ -14,6 +14,12 @@ Blueprints will be developed using consistent conventions and established best p
 
 ![Stat Value Updates](GIF/stat-value-updates.gif)
 
+## Chapter 1 Video Tutorial
+
+Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers RooGameplayFramework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.
+
+[Watch the complete Chapter 1 tutorial on YouTube](https://www.youtube.com/watch?v=LILH3-InaRI)
+
 ## Planned Features
 
 - Character attributes and derived stats

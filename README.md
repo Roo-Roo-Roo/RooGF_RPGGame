@@ -14,6 +14,12 @@ Blueprints will be developed using consistent conventions and established best p
 
 ![Stat Value Updates](GIF/stat-value-updates.gif)
 
+### Chapter 2 — Character Progression
+
+![Chapter 2 Character Progression](GIF/chapter-2-progression-demo.gif)
+
+Chapter 2 adds player level progression, attributes that grow from the player's level, and enemy attributes that grow over time.
+
 ## Chapter 1 Video Tutorial
 
 Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers RooGameplayFramework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.
@@ -25,7 +31,7 @@ Chapter 1 builds the project from the initial `v1.0.0` state into the data-drive
 The project is developed as a step-by-step learning series, with each chapter adding a complete set of connected RPG systems.
 
 - [x] **Chapter 1 — Stats, Formula, and Combat Foundation**
-- [ ] **Chapter 2 — Levels and Character Progression**
+- [x] **Chapter 2 — Levels and Character Progression**
 - [ ] **Chapter 3 — Buffs and Skills**
 - [ ] **Chapter 4 — Equipment, Loot, Pickup, and Equipment Systems**
 

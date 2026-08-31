@@ -8,6 +8,18 @@ The project is being developed into a complete RPG game and will continue to gro
 
 Blueprints will be developed using consistent conventions and established best practices to ensure maintainability, extensibility, and strong runtime performance as the project grows.
 
+## Current Showcase
+
+### Complete Demo Overview
+
+![Complete Demo Overview](Thumbnail/demo-overview.png)
+
+### Chapter 4 — Equipment Systems
+
+![Chapter 4 Equipment Systems](Thumbnail/equipment-systems.png)
+
+Chapter 4 adds configurable equipment, equipment-based stat modifiers, a level-scaling weapon Formula, inventory and equipment UI, and item tooltips.
+
 ## Chapter 1 Video Tutorial
 
 Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers RooGameplayFramework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.

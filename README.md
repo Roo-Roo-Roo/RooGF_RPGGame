@@ -10,15 +10,15 @@ Blueprints will be developed using consistent conventions and established best p
 
 ## Current Showcase
 
-### Stat Value Updates
+### Complete Demo Overview
 
-![Stat Value Updates](GIF/stat-value-updates.gif)
+![Complete Demo Overview](GIF/1.png)
 
-### Chapter 2 — Character Progression
+### Chapter 4 — Equipment Systems
 
-![Chapter 2 Character Progression](GIF/chapter-2-progression-demo.gif)
+![Chapter 4 Equipment Systems](GIF/2.png)
 
-Chapter 2 adds player level progression, attributes that grow from the player's level, and enemy attributes that grow over time.
+Chapter 4 adds configurable equipment, equipment-based stat modifiers, a level-scaling weapon Formula, inventory and equipment UI, and item tooltips.
 
 ## Chapter 1 Video Tutorial
 

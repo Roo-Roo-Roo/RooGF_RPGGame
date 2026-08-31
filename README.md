@@ -32,8 +32,8 @@ The project is developed as a step-by-step learning series, with each chapter ad
 
 - [x] **Chapter 1 — Stats, Formula, and Combat Foundation**
 - [x] **Chapter 2 — Levels and Character Progression**
-- [ ] **Chapter 3 — Buffs and Skills**
-- [ ] **Chapter 4 — Equipment, Loot, Pickup, and Equipment Systems**
+- [x] **Chapter 3 — Buffs and Skills**
+- [x] **Chapter 4 — Equipment Systems**
 
 [View the complete learning roadmap and documentation](https://roogame.gitbook.io/roogame/roo-gameplay-framework/learn-to-build-a-complete-rpg-game)
 
